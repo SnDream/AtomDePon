@@ -1,6 +1,8 @@
 # AtomDePon
 原子碰将！（アトムdeポン！ / Atom de Pon! / 环保麻将 / 发电麻将）汉化版
 
+![image](https://github.com/SnDream/AtomDePon/blob/main/ScreenShot.png)
+
 # 免责声明
 - 汉化版本仅供研究学习之用。
 - 不对原始游戏，以及汉化后的游戏内容、汉化效果等进行任何担保。
