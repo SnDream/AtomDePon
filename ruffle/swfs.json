@@ -1,0 +1,15 @@
+{
+  "swfs": [
+    {
+      "location": "AtomDePon.swf",
+      "title": "原子碰将 汉化版",
+      "author": "SnDream",
+      "authorLink": "https://github.com/SnDream/AtomDePon",
+      "config": {
+        "autoplay": "on",
+        "forceScale": false,
+        "forceAlign": false
+      }
+    }
+  ]
+}

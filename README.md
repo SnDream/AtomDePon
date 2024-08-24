@@ -17,9 +17,10 @@
 - 包括游戏玩法在内的网页链接均未修订（目前已全部为死链）。
 
 # 使用方法
-- 下载AtomDePon.swf后，访问 http://ruffle.rs/demo ，上传下载的文件。
+- 直接访问 https://sndream.github.io/AtomDePon/ 进行游戏。
     - 不需要专门的Flash播放器或者Flash插件。
     - 手机与电脑均支持这个方法。
+- 或者，下载AtomDePon.swf后，访问 http://ruffle.rs/demo ，上传下载的文件。
 
 # 可行动项
 - [x] 全图像汉化
@@ -31,7 +32,7 @@
 - [ ] 内联网页链接修订
 - [ ] 内联网页翻译
 - [ ] 高分榜功能
-- [ ] 静态站点
+- [x] 静态站点
 - [ ] 汉化拉链熊碰将（ZipBearTown Mahjong / 怪物麻将）
 
 # 另请参考
